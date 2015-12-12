@@ -1,5 +1,5 @@
 # python_microgame
-a python microgram created with python 2.6 and pygame
+a python microgame created with python 2.6 and pygame
 
 After entering the python_microgame directory, running python main.py in the terminal will launch the game.
 
